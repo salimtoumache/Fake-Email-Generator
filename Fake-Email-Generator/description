@@ -1,0 +1,33 @@
+تطبيق سطح المكتب لتوليد ايمايل وهمي 
+
+استعملت مكتبة tkinter في gui
+ومكتبة  guerrillamail لتوليد الايمايل
+
+
+هناك الكثير من المواقع التي تقوم بجمع البيانات الشخصية لمستخدميها ثم تقوم ببيعها لشركات اخرى .
+اذن ما الذي يجب عليك القيام به لحماية معلوماتك الشخصية حينما تتصفح الانترنت؟  الجواب بسيط ، عليك البدأ باستخدام الايميل الوهمي او البريد الالكتروني الوهمي .
+ماهي مزايا استعمال ايميل وهمي ؟
+هناك الكثير من المزايا لاستعمال الايميل الوهمي وهي كالاتي :
+ تفادي تسريب معلوماتك السرية .
+تجنب الرسائل التسويقية
+ارسال رسائل الكترونية بدون ان يتم تعقبك .
+تجنب ايميلات السبام والرسائل المزعجة.
+لا تحتاج للتسجيل لاستخدامه
+الايميل الوهمي يتيح لك ميزة التسجيل في المواقع بهوية مجهولة اي بدون معلوماتك الحقيقية.
+
+
+Desktop application for generate fake email
+
+- tkinter library in gui
+ - guerrillamail library to generate email
+
+There are a lot of sites that collect personal data of their users and then sell it to other companies.
+  So what should you do to protect your personal information when you surf the Internet? The answer is simple, you have to start using a fake email
+  What are the advantages of using a fake email?
+  There are many advantages to using a fake email, which are as follows:
+   Avoid leaking your confidential information.
+  Avoid marketing messages
+  Send emails without being tracked.
+  Avoid spam emails and annoying messages.
+  You do not need to register to use it
+  The fake email allows you to register on websites with an anonymous identity, that is, without your real information.
